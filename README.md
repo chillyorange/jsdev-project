@@ -10,3 +10,4 @@ You will be coding a Boostrap drag and drop form builder similar to the one foun
 * Unit tests are not required at this point.
 * Copy&pasting source code from the sample project is not allowed.
 * The produced code should be placed in a public Github repo.
+* Saving/exporting the forms is not required
